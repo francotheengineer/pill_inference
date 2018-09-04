@@ -17,12 +17,10 @@ and managing dosing and hence provide
 piece of mind for the user and loved ones.
 
 
-
-<img align="left" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/cad_render.png" width="400" title="hardware"> 
-<img align="right" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/shroud_sideview.jpg" width="400" title="hardware"> 
-
-
-
+<p float="middle">
+<img  src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/cad_render.png" width="400" title="hardware"> 
+<img  src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/shroud_sideview.jpg" width="400" title="hardware"> 
+</p>
 
 ## Hardware Stack
 ---
@@ -66,10 +64,10 @@ Do this for however many pills you want to train and ideally have 200-ish images
 The original results provided at best usable results (50-60% accuracy) as be seen below. The original dataset was made up of images like those seen below for inference. This removes the in-vs-out of sample issue often encountered.  
 
 Some inference results, showing 2 calcium pills left and 1 omega3 pill: 
-    <div align="center">
-    <img style="float: right" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/calcium_result.jpg" width="400"  title="hardware"> 
-    <img style="float: left" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/omega3_result.jpg" width="400"  title="hardware"> 
-    </div>
+<p float="middle">
+<img  src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/calcium_result.jpg" width="200" > 
+<img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/omega3_result.jpg" width="200"  > 
+</p>
 
 
 To do re-training follow <a href="https://www.tensorflow.org/hub/tutorials/image_retraining">this</a> Tensorflow tutorial.
