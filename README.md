@@ -17,10 +17,10 @@ and managing dosing and hence provide
 piece of mind for the user and loved ones.
 
 
-<div align="center">
-<img style="float: right" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/Docs/cad_render.png" width="400" height="400" title="hardware"> 
-<img style="float: left" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/Docs/shroud_sideview.jpg" width="400" height="400" title="hardware"> 
-</div>
+
+<img align="left" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/cad_render.png" width="400" title="hardware"> 
+<img align="right" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/shroud_sideview.jpg" width="400" title="hardware"> 
+
 
 
 
@@ -40,18 +40,18 @@ piece of mind for the user and loved ones.
 
 * Persplex Shrowing:
 
- <img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/Docs/shroud_sideview_2.jpg" width="400" height="400" title="hardware"> 
+ <img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/shroud_sideview_2.jpg" width="400"  title="hardware"> 
 
 * Camera:
 
-<img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/Docs/camera.jpg" width="400" height="400" title="hardware"> 
+<img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/camera.jpg" width="400"  title="hardware"> 
 
 * Lighting Array and Wiring:
 
 Please see the circuit diagram in the docs dir.
 
-<img style="float: right" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/Docs/light_wiring.jpg" width="400" height="400" title="hardware"> 
-<img style="float: left" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/Docs/light_array.jpg" width="400" height="400" title="hardware"> 
+<img style="float: right" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/light_wiring.jpg" width="400"  title="hardware"> 
+<img style="float: left" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/light_array.jpg" width="400"  title="hardware"> 
 
 
 ## Software Stack
@@ -67,8 +67,8 @@ The original results provided at best usable results (50-60% accuracy) as be see
 
 Some inference results, showing 2 calcium pills left and 1 omega3 pill: 
     <div align="center">
-    <img style="float: right" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/Docs/calcium_result.jpg" width="400" height="400" title="hardware"> 
-    <img style="float: left" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/Docs/omega3_result.jpg" width="400" height="400" title="hardware"> 
+    <img style="float: right" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/calcium_result.jpg" width="400"  title="hardware"> 
+    <img style="float: left" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/omega3_result.jpg" width="400"  title="hardware"> 
     </div>
 
 
