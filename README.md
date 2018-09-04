@@ -61,8 +61,8 @@ The original results provided at best usable results (50-60% accuracy) as be see
 
 Some inference results, showing 2 calcium pills left and 1 omega3 pill: 
 <p float="middle">
-<img  src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/calcium_result.jpg" width="200" > 
-<img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/omega3_result.JPG" width="200"  > 
+<img  src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/calcium_result.jpg" > 
+<img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/omega3_result.JPG"  > 
 </p>
 
 
