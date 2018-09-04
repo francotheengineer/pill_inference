@@ -11,16 +11,15 @@ The mission statement is such:
 risk the elderly face due to dosage and pill
 identification errors.
 >
->Pill_Scanner provides piece of mind by
+>The project provides piece of mind by
 removing doubt about the identity of a pill
 and managing dosing and hence provide
 piece of mind for the user and loved ones.
 
-
 <p float="middle">
-<img  src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/cad_render.png" width="400" title="hardware"> 
-<img  src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/shroud_sideview.jpg" width="400" title="hardware"> 
+<img  src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/shroud_sideview.jpg" width="400" > 
 </p>
+
 
 ## Hardware Stack
 ---
@@ -36,21 +35,19 @@ piece of mind for the user and loved ones.
 ### Hardware
 ---
 
-* Persplex Shrowing:
-
+* Persplex Shrowing and camera
+<p float="middle">
  <img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/shroud_sideview_2.jpg" width="400"  title="hardware"> 
-
-* Camera:
-
 <img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/camera.jpg" width="400"  title="hardware"> 
+</p>
 
 * Lighting Array and Wiring:
 
 Please see the circuit diagram in the docs dir.
-
+<p float="middle">
 <img style="float: right" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/light_wiring.jpg" width="400"  title="hardware"> 
 <img style="float: left" src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/light_array.jpg" width="400"  title="hardware"> 
-
+</p>
 
 ## Software Stack
 
