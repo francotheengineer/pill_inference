@@ -32,16 +32,15 @@ piece of mind for the user and loved ones.
 
 4. Custom trained convolutional neural network (CNN) to deliver classification results. This will be running in Tensorflow. So make sure you have it installed to run this project 👀🤓 - the gpu version will be fine for this version. But to scale, TF-Serving on GPU would be a better choice.
 
-### Hardware
 ---
 
-* Persplex Shrowing and camera
+### Persplex Shrowing and camera
 <p float="middle">
  <img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/shroud_sideview_2.jpg" width="400"  title="hardware"> 
 <img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/camera.jpg" width="400"  title="hardware"> 
 </p>
 
-* Lighting Array and Wiring:
+### Lighting Array and Wiring:
 
 Please see the circuit diagram in the docs dir.
 <p float="middle">
@@ -63,7 +62,7 @@ The original results provided at best usable results (50-60% accuracy) as be see
 Some inference results, showing 2 calcium pills left and 1 omega3 pill: 
 <p float="middle">
 <img  src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/calcium_result.jpg" width="200" > 
-<img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/omega3_result.jpg" width="200"  > 
+<img src="https://raw.githubusercontent.com/francotheengineer/pill_inference/master/Docs/omega3_result.JPG" width="200"  > 
 </p>
 
 
